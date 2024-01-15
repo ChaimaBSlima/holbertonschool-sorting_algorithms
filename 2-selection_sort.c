@@ -1,7 +1,7 @@
 #include "sort.h"
 /**
- * selection_sort - function that sorts an array of integers in ascending
- * order using the Selection sort algorithm
+ * selection_sort - function that sorts an array of integers
+ * from min to max
  * @size: size of the array
  * @array: list with numbers
  */
